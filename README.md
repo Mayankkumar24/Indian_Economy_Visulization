@@ -20,3 +20,5 @@ Economic Transformation: See how India's GDP and trade patterns have evolved, re
 Improved Incomes and Longevity: Analyze how rising incomes correlate with longer life expectancy, indicating improved living standards.
 Conclusion
 This project provides a compelling visual narrative of India's economic progress, offering valuable insights into the country's development over six decades. Whether you are an economist, student, or curious observer, these visualizations offer a clear and engaging way to understand India's economic history.
+
+Source of data -- https://www.kaggle.com/datasets/nejilee/indian-economy-from-1960-to-2020
